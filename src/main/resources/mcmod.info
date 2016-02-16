@@ -1,0 +1,16 @@
+[
+{
+  "modid": "swords",
+  "name": "More Swords Mod",
+  "description": "Adds swords from different video games/anime.",
+  "version": "1.5",
+  "mcversion": "1.8",
+  "url": "http://www.planetminecraft.com/mod/syntthetixs-mo-swords-mod-3328124/",
+  "updateUrl": "",
+  "authorList": "Syntthetix"
+  "credits": "Me, for coding and texturing it.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
