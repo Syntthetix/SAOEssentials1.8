@@ -1,14 +1,14 @@
 [
 {
-  "modid": "swords",
-  "name": "More Swords Mod",
-  "description": "Adds swords from different video games/anime.",
-  "version": "1.5",
+  "modid": "sao",
+  "name": "SAO Essentials",
+  "description": "Mod to add sword and items from the SAO anime into Minecraft.",
+  "version": "1.0",
   "mcversion": "1.8",
-  "url": "http://www.planetminecraft.com/mod/syntthetixs-mo-swords-mod-3328124/",
+  "url": "",
   "updateUrl": "",
   "authorList": "Syntthetix"
-  "credits": "Me, for coding and texturing it.",
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

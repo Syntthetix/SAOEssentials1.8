@@ -1,6 +1,6 @@
 package com.syntthetix.main;
 
-public class CommonProxy {
+public class ServerProxy {
 
 	public void registerRenders() {
 		

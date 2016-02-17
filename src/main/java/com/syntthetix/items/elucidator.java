@@ -3,11 +3,11 @@ package com.syntthetix.items;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemSword;
 
-public class darkRep extends ItemSword {
+public class elucidator extends ItemSword {
 
-	public darkRep(ToolMaterial material) {
+	public elucidator(ToolMaterial material) {
 		super(material);
-		this.setUnlocalizedName("darkRep");
+		this.setUnlocalizedName("eluc");
 		this.setCreativeTab(CreativeTabs.tabCombat);
 	}
 

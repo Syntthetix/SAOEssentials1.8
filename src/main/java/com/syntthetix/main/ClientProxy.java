@@ -1,12 +1,11 @@
 package com.syntthetix.main;
 
-import com.syntthetix.items.SwordsItems;
+import com.syntthetix.items.SAOItems;
 
-public class ClientProxy extends CommonProxy{
+public class ClientProxy extends ServerProxy{
 
 	@Override
 	public void registerRenders() {
-		SwordsItems.registerRenders();
+		SAOItems.registerRenders();
 	}
-	
-}
+}	
