@@ -7,7 +7,7 @@ public class guiltyThorn extends ItemSword {
 
 	public guiltyThorn(ToolMaterial material) {
 		super(material);
-		this.setUnlocalizedName("thorn");
+		this.setUnlocalizedName("guilty");
 		this.setCreativeTab(CreativeTabs.tabCombat);
 	}
 
