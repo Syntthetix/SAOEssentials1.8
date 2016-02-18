@@ -1,2 +1,2 @@
-# SAOSwords1.8
+# SAOEssentials1.8
 Source code for SAO Essentials 1.8.
