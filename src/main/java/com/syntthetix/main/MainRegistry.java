@@ -28,6 +28,6 @@ public class MainRegistry {
 	
 	@EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
-		
+		CraftingManager.mainRegistry();
 	}
 }

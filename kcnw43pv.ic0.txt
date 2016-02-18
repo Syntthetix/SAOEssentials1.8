@@ -1,0 +1,29 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   src/main/java/com/syntthetix/items/SwordsItems.java
+#	new file:   src/main/java/com/syntthetix/items/darkRep.java
+#	new file:   src/main/java/com/syntthetix/items/eSword.java
+#	new file:   src/main/java/com/syntthetix/items/eluc.java
+#	new file:   src/main/java/com/syntthetix/items/mSword.java
+#	new file:   src/main/java/com/syntthetix/items/saber.java
+#	new file:   src/main/java/com/syntthetix/lib/RefStrings.java
+#	new file:   src/main/java/com/syntthetix/main/ClientProxy.java
+#	new file:   src/main/java/com/syntthetix/main/CommonProxy.java
+#	new file:   src/main/java/com/syntthetix/main/CraftingManager.java
+#	new file:   src/main/java/com/syntthetix/main/MainRegistry.java
+#	new file:   src/main/resources/assets/sao/lang/en_US.lang
+#	new file:   src/main/resources/assets/sao/models/item/Elucidator.json
+#	new file:   src/main/resources/assets/sao/models/item/Karakurenai.json
+#	new file:   src/main/resources/assets/sao/models/item/darkRepulser.json
+#	new file:   src/main/resources/assets/sao/models/item/guilyThorn.json
+#	new file:   src/main/resources/assets/sao/textures/items/Elucidator.png
+#	new file:   src/main/resources/assets/sao/textures/items/Karakurenai.png
+#	new file:   src/main/resources/assets/sao/textures/items/darkRepulser.png
+#	new file:   src/main/resources/mcmod.info
+#
+
